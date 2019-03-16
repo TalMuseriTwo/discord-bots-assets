@@ -1,1 +1,7 @@
-true
+1
+1.000003
+0
+
+Line 1: perm (1= valid permission, 0= no permission)
+Line 2: newest version (float)
+Line 3: force update? (1= yes, 0= no)
