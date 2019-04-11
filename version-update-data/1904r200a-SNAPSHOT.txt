@@ -1,0 +1,5 @@
+0
+1
+
+Line 1: 1= newer version available, 0= newest version
+Line 2: 1= force update, 0= don't force update (This line is realevant only if line 1 = 1)
