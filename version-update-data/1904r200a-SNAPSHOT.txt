@@ -1,4 +1,4 @@
-0
+1
 1
 
 Line 1: 1= newer version available, 0= newest version
