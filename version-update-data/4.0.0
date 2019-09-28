@@ -1,0 +1,9 @@
+0
+0
+1
+This version is still in development!
+
+Line 1: 1= newer version available, 0= newest version
+Line 2: Force update (relevant only if line1=1)
+Line 3: Show custom message
+Line 4: The custom message to show (relevant only if line3=1)
