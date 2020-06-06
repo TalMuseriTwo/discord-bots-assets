@@ -1,7 +1,7 @@
 1
 0
 Hello
-1
+0
 
 Line 1: permission (0- no perm, 1- allowed)
 Line 2: display custom message? (0- no, 1- yes)
