@@ -1,8 +1,10 @@
 1
 0
 Hello
+1
 
 Line 1: permission (0- no perm, 1- allowed)
 Line 2: display custom message? (0- no, 1- yes)
-Line3: The custom message to display (if line 2 is 1)
+Line 3: The custom message to display (if line 2 is 1)
+Line 4: Checker permission
 Note: Versions prior to 4.0.0.0 only read and process the first line
