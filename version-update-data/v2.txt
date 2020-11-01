@@ -1,5 +1,5 @@
-1.0 | 2010r400a | 0 | 0
-1.2 | PlaceholderVersion | 0 | 0
+0.1 | 2010r400a | 0 | 1 | test
+0.2 | PlaceholderVersion | 0 | 0
 ###
 Syntax:
 VerID | VerName | allow? (0=true,1=false) | Disp. custom msg? | "Custom msg to display"
